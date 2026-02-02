@@ -1,6 +1,6 @@
 {{
   config(
-    materialized = 'view' --Sanket
+    materialized = 'view' --Sanket Pingale
     )
 }}
 
